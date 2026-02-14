@@ -135,7 +135,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-
+.artifacts
 .env
 .envrc
 .venv
@@ -217,8 +217,7 @@ artifacts/
 # Ignore logs folder
 logs/
 
-# Ignore notebooks (remove this line if you want to track notebooks)
-notebook/
+
 
 # Ignore virtual environment
 venv/
