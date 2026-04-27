@@ -90,8 +90,7 @@ The system predicts a student's math score using multiple input features and pro
 
 ## 👩‍💻 Author
 
-**Kanalpreet Kaur**  
-AI/ML Engineer  
+**Kanalpreet Kaur**   
 
 ---
 
